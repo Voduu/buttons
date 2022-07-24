@@ -19,3 +19,7 @@ Font color: #353B3C
 Palette Colors:
 A18276 | FCFCFC | 7D83FF | 353B3C | 007FFF
 Beaver | White  | MSlate | Onyx   | Azure
+
+
+* Update photo grid to use flex inside of each grid cell to force photo to top
+of cell and label to bottom?
