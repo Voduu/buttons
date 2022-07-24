@@ -30,6 +30,7 @@ p, ul, .form-item {
 
 .nav {
     background-color: #353B3C;
+    border: 1px solid #353B3C;
     display: flex;
     font-family: Corbel, sans-serif;
     font-size: 20px;
@@ -44,6 +45,11 @@ p, ul, .form-item {
     color: #FFFFFF;
     flex-grow: 1;
     padding: 8px;
+}
+
+.nav a:hover {
+    background-color: #FFFFFF;
+    color: #353B3C;
 }
 
 .home-grid {
