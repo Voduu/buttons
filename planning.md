@@ -14,3 +14,8 @@ Background color: #353B3C
 p
 Font: Tahoma, serif
 Font color: #353B3C
+
+
+Palette Colors:
+A18276 | FCFCFC | 7D83FF | 353B3C | 007FFF
+Beaver | White  | MSlate | Onyx   | Azure
