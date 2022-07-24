@@ -23,3 +23,7 @@ Beaver | White  | MSlate | Onyx   | Azure
 
 * Update photo grid to use flex inside of each grid cell to force photo to top
 of cell and label to bottom?
+* Add H2 to Home Page "Buttons Is a Cat"
+* Need to get better colors
+* Website background color/pattern
+* Footer?
