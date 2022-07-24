@@ -5,6 +5,61 @@
         <title>Contact | Buttons Is a Cat</title>
     </head>
     <body>
+        <h1>Buttons</h1>
 
+        <div class="nav">
+            <a href="index.html">Home</a>
+            <a href="pages/websites.html">Websites</a>
+            <a href="pages/photos.html">Photos</a>
+            <a href="pages/contact.html">Contact</a>
+        </div>
+
+        <h2>Messaging Buttons...</h2>
+
+        <form class="contact-form" action="" method="post">
+            <fieldset>
+                <div class="form-item">
+                    <label for="fullname">Name:<br></label>
+                    <input class="input" type="text" id="fullname"
+                           name="fullname">
+                </div>
+
+                <div class="form-item">
+                    <label for="email">Email:<br></label>
+                    <input class="input" type="email" id="email" name="email">
+                </div>
+
+                <div class="form-item form-flex">
+                    <div class="form-flex-item">
+                        <p>How much do you love Buttons?</p>
+                    </div>
+                    <div class="form-flex-item">
+                        <input type="radio" id="ten" name="buttons_rating"
+                               value="ten">
+                        <label for="ten">10 out of 10</label>
+
+                        <input type="radio" id="eleven" name="buttons_rating"
+                               value="eleven">
+                        <label for="eleven">11 out of 10</label>
+                    </div>
+                </div>
+
+                <div class="form-item">
+                    <label for="message">Message:<br></label>
+                    <textarea id="message" name="message"></textarea>
+                </div>
+
+                <div class="form-item">
+                    <input class="check" type="checkbox" id="subscribe"
+                           name="subscribe" checked>
+                    <label for="subscribe">Receive weekly Buttons updates
+                        </label>
+                </div>
+
+                <div class="form-item">
+                    <input class="submit" type="submit" value="Submit">
+                </div>
+            </fieldset>
+        </form>
     </body>
 </html>
