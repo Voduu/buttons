@@ -21,9 +21,8 @@ A18276 | FCFCFC | 7D83FF | 353B3C | 007FFF
 Beaver | White  | MSlate | Onyx   | Azure
 
 
-* Update photo grid to use flex inside of each grid cell to force photo to top
-of cell and label to bottom?
-* Add H2 to Home Page "Buttons Is a Cat"
+* Photos transition to larger image when hovering over?
 * Need to get better colors
 * Website background color/pattern
 * Footer?
+* Weird sizing issue that I can't figure out...
