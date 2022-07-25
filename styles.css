@@ -142,6 +142,21 @@ p, ul, textarea,
     text-align: center;
 }
 
+.photos-grid-item img {
+    height: 318px;
+    object-fit: cover;
+    width: 318px;
+}
+
+.photos-grid-item a:link {
+    text-decoration: none;
+}
+
+.photos-grid-item p {
+    margin: 0px;
+    padding: 0px;
+}
+
 .contact-form {
     margin: 0px auto;
     width: 512px;
