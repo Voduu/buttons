@@ -110,10 +110,21 @@ p, ul, textarea,
     height: inherit;
 }
 
-.website-grid-item {
+.website-grid-item-1 {
     background-color: #D1BDB5;
     border: 1px solid black;
-    padding: 8px;
+    height: 766px;
+}
+
+.website-grid-item-2 {
+    height: 766px;
+}
+
+.website-grid-item img {
+    border: 1px solid black;
+    object-fit: cover;
+    height: 766px;
+    width: 676px;
 }
 
 .photos-grid {
