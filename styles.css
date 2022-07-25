@@ -137,6 +137,7 @@ p, ul, textarea,
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
     height: inherit;
+    width: 1024px;
 }
 
 .photos-grid-item {
