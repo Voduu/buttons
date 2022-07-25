@@ -110,6 +110,10 @@ p, ul, textarea,
     height: inherit;
 }
 
+.websites-grid li {
+    font-size: 22px;
+}
+
 .website-grid-item-1 {
     background-color: #D1BDB5;
     border: 1px solid black;
